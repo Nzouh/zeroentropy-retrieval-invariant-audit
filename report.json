@@ -1,0 +1,12 @@
+{
+  "verdict": "review",
+  "findings": [
+    {
+      "case": "negated-ev",
+      "code": "NEGATION_LEAK",
+      "items": [
+        "doc-elon"
+      ]
+    }
+  ]
+}

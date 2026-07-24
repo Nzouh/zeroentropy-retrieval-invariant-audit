@@ -1,0 +1,1 @@
+{"cases":[{"id":"negated-ev","exclude_ids":["doc-elon"],"required_evidence_ids":["doc-battery"],"results":[{"id":"doc-battery","score":0.91},{"id":"doc-elon","score":0.74}]}]}
